@@ -1,0 +1,12 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+.questions{
+display: flex;
+flex-direction: column;
+}
+.lisToAdd{
+  display: flex;
+  flex-direction: column;
+}
